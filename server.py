@@ -4,6 +4,7 @@ from tkinter import messagebox
 from socket import * 
 from threading import Thread
 
+
 player = 0
 
 def create_board():
